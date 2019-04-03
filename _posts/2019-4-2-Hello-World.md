@@ -3,5 +3,5 @@ layout: post
 title: This is a test
 ---
 
-![](cat1.gif)
+![hey](cat1.gif)
 
