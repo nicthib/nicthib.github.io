@@ -8,7 +8,7 @@ I'm a person!
 
 ### More Information
 
-More informatin to come
+More information to come
 
 ### Contact me
 
