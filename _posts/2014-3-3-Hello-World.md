@@ -3,4 +3,4 @@ layout: post
 title: This is a test
 ---
 
-![Step 1](/gifs/cat1.gif "Cat.")
+![](https://github.com/nicthib/nicthib.github.io/images/cat1.gif "Cat.")
