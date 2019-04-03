@@ -3,4 +3,4 @@ layout: post
 title: This is a test
 ---
 
-![](cat1.gif)
+![Step 1](/gifs/cat1.gif "Cat.")
